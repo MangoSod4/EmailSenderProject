@@ -3,7 +3,7 @@ using MailKit.Net.Smtp;
 using MimeKit;
 using MailKit;
 
-namespace EmailConsoleProject
+namespace EmailSenderProject
 {
     public class Program
     {
